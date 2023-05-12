@@ -8,7 +8,7 @@
 [![pub package](https://img.shields.io/badge/platform-flutter-blue.svg)](https://github.com/jhomlala/betterplayer)
 
 Advanced video player based on video_player and Chewie. It's solves many typical use cases and it's easy to run.
-
+this fork of betterplayer is published to support dart 3 and flutter 3.10 support.
 <table>
    <tr>
       <td>
